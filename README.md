@@ -52,4 +52,4 @@
 
 <div align=center>
 
-![morisYu's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
+![morisYu's github stats](https://github-readme-stats.vercel.app/api?username=morisYu&show_icons=true)
