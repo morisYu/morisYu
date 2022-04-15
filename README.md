@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PgmJun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=morisYu's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <br>
 
@@ -52,4 +52,4 @@
 
 <div align=center>
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
+![morisYu's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
